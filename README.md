@@ -1,3 +1,5 @@
+# Talks
+
 ## Category Theory as a Tool for Thought
 - [Repo](https://github.com/ncreep/category-theory-as-a-tool-for-thought)
 - [Slides](https://github.com/ncreep/category-theory-as-a-tool-for-thought)
@@ -30,3 +32,8 @@
 ## A Taste of Haskell for Scala Programmers
 - [Repo](https://github.com/ncreep/taste_of_haskell)
 - [Slides](https://ncreep.github.io/taste_of_haskell/presentation/presentation.html)
+
+# Workshops
+
+## Akka Streams Workshop
+- [Repo](https://github.com/ncreep/akka-streams-workshop)
