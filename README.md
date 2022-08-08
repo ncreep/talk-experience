@@ -32,6 +32,9 @@
 ## A Taste of Haskell for Scala Programmers
 - [Repo](https://github.com/ncreep/taste_of_haskell)
 - [Slides](https://ncreep.github.io/taste_of_haskell/presentation/presentation.html)
+## Make Illegal States Unrepresentable
+- [Repo](https://github.com/ncreep/illegal-states)
+- [Slides](https://ncreep.github.io/illegal-states/presentation/presentation.html)
 
 # Workshops
 
