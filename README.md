@@ -35,6 +35,10 @@
 ## Make Illegal States Unrepresentable
 - [Repo](https://github.com/ncreep/illegal-states)
 - [Slides](https://ncreep.github.io/illegal-states/presentation/presentation.html)
+## Fixing-up Production with Property-based Testing
+- [Repo](https://github.com/ncreep/fixing-prod-with-pbt)
+- [Slides](https://ncreep.github.io/fixing-prod-with-pbt/presentation/presentation.html)
+- [Functional Scala, 2022, UK](https://www.youtube.com/watch?app=desktop&v=ZHcHeuuar-4)
 
 # Workshops
 
