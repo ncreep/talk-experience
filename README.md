@@ -35,6 +35,7 @@
 ## Make Illegal States Unrepresentable
 - [Repo](https://github.com/ncreep/illegal-states)
 - [Slides](https://ncreep.github.io/illegal-states/presentation/presentation.html)
+- [LambdaDays 2022, Poland](https://www.youtube.com/watch?v=PSh7JUfDstE)
 ## Fixing-up Production with Property-based Testing
 - [Repo](https://github.com/ncreep/fixing-prod-with-pbt)
 - [Slides](https://ncreep.github.io/fixing-prod-with-pbt/presentation/presentation.html)
