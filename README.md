@@ -3,14 +3,15 @@
 ## Category Theory as a Tool for Thought
 - [Repo](https://github.com/ncreep/category-theory-as-a-tool-for-thought)
 - [Slides](https://github.com/ncreep/category-theory-as-a-tool-for-thought)
-- [LambdaConf 2019, US](https://www.youtube.com/watch?v=lVs35Nngj88) - keynote
-- [LambdaDays 2020, Poland](https://www.youtube.com/watch?v=UwYLaGzhDb4)
+- [LambdaConf, 2019, US](https://www.youtube.com/watch?v=lVs35Nngj88) - keynote
+- [LambdaDays, 2020, Poland](https://www.youtube.com/watch?v=UwYLaGzhDb4)
+- [Scala IO, 2022, France](https://www.youtube.com/watch?v=C1IGfRIjK5A)
 ## Compile Time Logic Programming in Scala - What For?
 - [Repo](https://github.com/ncreep/compile-time-logic-programming-talk)
 - [Slides](https://ncreep.github.io/compile-time-logic-programming-talk/presentation/presentation.html)
 - [Scala eXchange, 2017, UK](https://skillsmatter.com/skillscasts/10957-compile-time-logic-programming-in-scala-what-for)
 - [ScalaUA, 2019, Ukraine](https://www.youtube.com/watch?v=wHrdrRvC1Wg)
-- [ScalaWorld 2019, UK](https://www.youtube.com/watch?v=9i06TyYM_lI)
+- [ScalaWorld, 2019, UK](https://www.youtube.com/watch?v=9i06TyYM_lI)
 ## Sharing Is Caring - How to Let the Compiler Know What You're Thinking
 - [Repo](https://github.com/ncreep/sharing-is-caring-talk)
 - [Slides](https://ncreep.github.io/sharing-is-caring-talk/presentation/presentation.html)
@@ -22,7 +23,7 @@
 - [Lambda Days, 2017, Poland](https://www.youtube.com/watch?v=nRZuSZZBzoI)
 - [LambdaConf, 2017, US](https://www.youtube.com/watch?v=5UWzGbf04so)
 - [Scala Swarm, 2017, Portugal](https://www.youtube.com/watch?v=jjIfvbkSKGU)
-- [Scala IO,  2017, France](https://www.youtube.com/watch?v=QDaIC6OD6sU)
+- [Scala IO, 2017, France](https://www.youtube.com/watch?v=QDaIC6OD6sU)
 ## Introduction to Functional Design for OO Programmers
 - [Repo](https://github.com/ncreep/intro_to_fp_for_oo)
 - [Slides](https://ncreep.github.io/intro_to_fp_for_oo/presentation/presentation.html)
@@ -35,7 +36,7 @@
 ## Make Illegal States Unrepresentable
 - [Repo](https://github.com/ncreep/illegal-states)
 - [Slides](https://ncreep.github.io/illegal-states/presentation/presentation.html)
-- [LambdaDays 2022, Poland](https://www.youtube.com/watch?v=PSh7JUfDstE)
+- [LambdaDays, 2022, Poland](https://www.youtube.com/watch?v=PSh7JUfDstE)
 ## Fixing-up Production with Property-based Testing
 - [Repo](https://github.com/ncreep/fixing-prod-with-pbt)
 - [Slides](https://ncreep.github.io/fixing-prod-with-pbt/presentation/presentation.html)
