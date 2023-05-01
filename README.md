@@ -41,6 +41,7 @@
 - [Repo](https://github.com/ncreep/fixing-prod-with-pbt)
 - [Slides](https://ncreep.github.io/fixing-prod-with-pbt/presentation/presentation.html)
 - [Functional Scala, 2022, UK](https://www.youtube.com/watch?app=desktop&v=ZHcHeuuar-4)
+- [Scalar, 2023, Poland](https://www.youtube.com/watch?v=0CaK4xr3UVk)
 
 # Workshops
 
