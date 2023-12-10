@@ -42,6 +42,9 @@
 - [Slides](https://ncreep.github.io/fixing-prod-with-pbt/presentation/presentation.html)
 - [Functional Scala, 2022, UK](https://www.youtube.com/watch?app=desktop&v=ZHcHeuuar-4)
 - [Scalar, 2023, Poland](https://www.youtube.com/watch?v=0CaK4xr3UVk)
+## Custom Compile-Time Errors with a Vengeance
+- [Repo](https://github.com/ncreep/custom-compile-time-errors)
+- [Slides](https://ncreep.github.io/custom-compile-time-errors/presentation/presentation.html)
 
 # Workshops
 
