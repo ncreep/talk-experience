@@ -45,6 +45,7 @@
 ## Custom Compile-Time Errors with a Vengeance
 - [Repo](https://github.com/ncreep/custom-compile-time-errors)
 - [Slides](https://ncreep.github.io/custom-compile-time-errors/presentation/presentation.html)
+- [Functional Scala, 2023, UK](https://www.youtube.com/watch?v=7qeTuqrFNYc)
 
 # Workshops
 
