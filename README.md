@@ -1,5 +1,18 @@
 # Talks
 
+## Make Illegal States Unrepresentable
+- [Repo](https://github.com/ncreep/illegal-states)
+- [Slides](https://ncreep.github.io/illegal-states/presentation/presentation.html)
+- [LambdaDays, 2022, Poland](https://www.youtube.com/watch?v=PSh7JUfDstE)
+## Fixing-up Production with Property-based Testing
+- [Repo](https://github.com/ncreep/fixing-prod-with-pbt)
+- [Slides](https://ncreep.github.io/fixing-prod-with-pbt/presentation/presentation.html)
+- [Functional Scala, 2022, UK](https://www.youtube.com/watch?app=desktop&v=ZHcHeuuar-4)
+- [Scalar, 2023, Poland](https://www.youtube.com/watch?v=0CaK4xr3UVk)
+## Custom Compile-Time Errors with a Vengeance
+- [Repo](https://github.com/ncreep/custom-compile-time-errors)
+- [Slides](https://ncreep.github.io/custom-compile-time-errors/presentation/presentation.html)
+- [Functional Scala, 2023, UK](https://www.youtube.com/watch?v=7qeTuqrFNYc)
 ## Category Theory as a Tool for Thought
 - [Repo](https://github.com/ncreep/category-theory-as-a-tool-for-thought)
 - [Slides](https://github.com/ncreep/category-theory-as-a-tool-for-thought)
@@ -33,19 +46,6 @@
 ## A Taste of Haskell for Scala Programmers
 - [Repo](https://github.com/ncreep/taste_of_haskell)
 - [Slides](https://ncreep.github.io/taste_of_haskell/presentation/presentation.html)
-## Make Illegal States Unrepresentable
-- [Repo](https://github.com/ncreep/illegal-states)
-- [Slides](https://ncreep.github.io/illegal-states/presentation/presentation.html)
-- [LambdaDays, 2022, Poland](https://www.youtube.com/watch?v=PSh7JUfDstE)
-## Fixing-up Production with Property-based Testing
-- [Repo](https://github.com/ncreep/fixing-prod-with-pbt)
-- [Slides](https://ncreep.github.io/fixing-prod-with-pbt/presentation/presentation.html)
-- [Functional Scala, 2022, UK](https://www.youtube.com/watch?app=desktop&v=ZHcHeuuar-4)
-- [Scalar, 2023, Poland](https://www.youtube.com/watch?v=0CaK4xr3UVk)
-## Custom Compile-Time Errors with a Vengeance
-- [Repo](https://github.com/ncreep/custom-compile-time-errors)
-- [Slides](https://ncreep.github.io/custom-compile-time-errors/presentation/presentation.html)
-- [Functional Scala, 2023, UK](https://www.youtube.com/watch?v=7qeTuqrFNYc)
 
 # Workshops
 
