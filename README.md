@@ -3,6 +3,7 @@
 - [Repo](https://github.com/ncreep/custom-compile-time-errors)
 - [Slides](https://ncreep.github.io/custom-compile-time-errors/presentation/presentation.html)
 - [Functional Scala, 2023, UK](https://www.youtube.com/watch?v=7qeTuqrFNYc)
+- [Scalar, 2024, Poland](https://www.youtube.com/watch?v=dQA4jslfFpw)
 ## Fixing-up Production with Property-based Testing
 - [Repo](https://github.com/ncreep/fixing-prod-with-pbt)
 - [Slides](https://ncreep.github.io/fixing-prod-with-pbt/presentation/presentation.html)
