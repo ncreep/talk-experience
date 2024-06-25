@@ -37,6 +37,9 @@
 - [LambdaConf, 2017, US](https://www.youtube.com/watch?v=5UWzGbf04so)
 - [Scala Swarm, 2017, Portugal](https://www.youtube.com/watch?v=jjIfvbkSKGU)
 - [Scala IO, 2017, France](https://www.youtube.com/watch?v=QDaIC6OD6sU)
+## FS2 Streaming Intro
+- [Repo](https://github.com/ncreep/fs2-streaming-intro)
+- [Slides](https://ncreep.github.io/fs2-streaming-intro/presentation/presentation.html)
 ## Introduction to Functional Design for OO Programmers
 - [Repo](https://github.com/ncreep/intro_to_fp_for_oo)
 - [Slides](https://ncreep.github.io/intro_to_fp_for_oo/presentation/presentation.html)
